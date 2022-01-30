@@ -19,5 +19,20 @@ public class Main {
         planet2 perry= new planet2();
         perry.color="yellow";
          perry.size="987654km";
+
+
+
+
+
+
+
+
+
+
+        moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="9348lunouns";
+
     }
 }
